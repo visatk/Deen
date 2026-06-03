@@ -12,12 +12,5 @@
 	],
 	"placement": {
     "mode": "smart"
-  },
-  "d1_databases": [
-    {
-      "binding": "DB",
-      "database_name": "deenislamic",
-      "database_id": "7c1b9180-4915-4457-ba33-2c1522d93e50"
-    }
-  ]
+  }
 }
